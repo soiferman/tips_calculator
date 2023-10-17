@@ -1,1 +1,1 @@
-# Tips calculator using SWwiftUI + unit test example
+# Tips calculator using SwiftUI + unit test example
